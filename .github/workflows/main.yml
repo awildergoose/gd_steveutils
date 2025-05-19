@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          repository: SpazElectro/gd_steveutils
+          repository: awildergoose/gd_steveutils
           path: DevTools
 
       - name: Build the mod
