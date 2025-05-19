@@ -6,7 +6,7 @@
 	"name": "Steve Utils",
 	"developer": "steve",
 	"description": "random utils and qol stuff",
-	"repository": "https://github.com/SpazElectro/gd_steveutils",
+	"repository": "https://github.com/awildergoose/gd_steveutils",
 	"dependencies": [
 		{
             "id": "geode.custom-keybinds",
